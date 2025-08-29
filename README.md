@@ -1,2 +1,2 @@
-# Sorting-in-C-STL-
+# Sorting-in-C++-STL-
 A simple c++ programe . c++ inbuilt sorting function using STL(standard Tamplate Library)
